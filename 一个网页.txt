@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charest="UTF-8">
+  <meta name="viewport" content="width=device=width,initial-scale=1">
+  <title>Re01</title>
+</head>
+
+<body style="margin:0">
+  <div style="background-color:#f1f1f1;text-align:center;padding:40px"><img alt="Re01"
+      src="https://kangwenchang.com/logo.png" style="width:80px;height:80px"></div>
+  <div style="max-width:760px;margin:30px auto;line-height:1.7;padding:15px;font-size:2.2">
+    <p>第一段</p>
+    <p>第二段</p>
+    <p>第三段</p>
+  </div>
+  <div style="background-color:#f1f1f1;text-align:center;padding:40px;font-size:12px"><a
+      href="http://kangwenchang.com">我的网站</a></div>
+</body>
+
+</html>
